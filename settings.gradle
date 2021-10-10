@@ -1,0 +1,2 @@
+rootProject.name = "TestBinding"
+include ':app'
